@@ -13,7 +13,7 @@ It is meant to demonstrate backend engineering: authentication, API keys, rate l
 ```
 demo@relay.dev   /   Demo1234!
 ```
-
+This project is in dev mode rightnow!
 ---
 
 ## Why this exists
